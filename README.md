@@ -1,11 +1,11 @@
 # Affordability
 
-This repository contains a machine learning pipeline to assess loan affordability based on borrower characteristics and repayment history. 
+This repository contains a machine learning guide to assess loan affordability based on borrower characteristics and repayment history. 
+We do not provide preprocessing code or features'name explanation because it is part of FIOLA secret sauce. Nevertheless, if you are a referee of our papers, academic researcher or wish to co-operate at a professional level with FINEXOS and wish more context or information please send an email to the Chief Data Scientist at georgioskiminos@finexos.io and we will try to provide what you need.
 
 Repository Contents:
-1. 3 datasets train, test and validation
-2. The entire dataset before preprocessing
-3. The model to reproduce the results
+1. 3 datasets, train, test and validation
+2. The model to reproduce the results.
 
 File Contents: 
 1. Affordability_Model.ipynb - Main notebook for training & evaluation
@@ -13,7 +13,7 @@ File Contents:
 3. train_data - Training dataset (features & labels)
 4. valid_data - Validation dataset (features & labels)
 5. paystring_masked_uids.parquet - Raw input data (masked UIDs)
-6. README.md - This file
+6. README.md 
 
 Usage:
 

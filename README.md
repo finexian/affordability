@@ -15,7 +15,7 @@ File Contents:
 5. paystring_masked_uids.parquet - Raw input data (masked UIDs)
 6. README.md - This file
 
-Usage
+Usage:
 These files allow users to validate affordability model performance using the 3 datasets provided
 You can:
 1. Load X_test and y_test to evaluate your own trained model

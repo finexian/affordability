@@ -2,7 +2,7 @@
 
 This repository contains a machine learning pipeline to assess loan affordability based on borrower characteristics and repayment history. 
 
-Repository Contents
+Repository Contents:
 1. 3 datasets train, test and validation
 2. The entire before preprocessing
 3. The model to reproduce the results

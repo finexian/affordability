@@ -16,7 +16,9 @@ File Contents:
 6. README.md - This file
 
 Usage:
+&nbsp; 
 These files allow users to validate affordability model performance using the 3 datasets provided
+&nbsp; 
 You can:
 1. Load X_test and y_test to evaluate your own trained model
 2. Use the provided model parameters for benchmarking or replication

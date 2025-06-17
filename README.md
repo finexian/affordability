@@ -4,7 +4,7 @@ This repository contains a machine learning pipeline to assess loan affordabilit
 
 Repository Contents:
 1. 3 datasets train, test and validation
-2. The entire before preprocessing
+2. The entire dataset before preprocessing
 3. The model to reproduce the results
 
 File Contents: 
